@@ -1,0 +1,19 @@
+{
+  "name": "cookie",
+  "version": "1.4.1",
+  "title":  "jQuery Cookie",
+   "author": {
+   
+  },
+  "maintainers": [
+
+  ],
+  "licenses": [
+
+  ],
+  "dependencies": {
+   
+  },
+  
+  "docs": ""
+}
